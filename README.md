@@ -1,1 +1,1 @@
-`gimme` has been renamed to [Drop](github.com/matryer/drop).
+`gimme` has been renamed to [Drop](https://github.com/matryer/drop).
